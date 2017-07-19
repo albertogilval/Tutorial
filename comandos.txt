@@ -1,2 +1,5 @@
 git clone URL
-
+git add -A //para añadir todos los cambios realizados
+git remote add origin URL // si no tenemos asignado la direccion
+git commit -m "mensaje" // realizamos el commit con el mensaje "mensaje"
+git push origin to master // subir los cambios al repositorio
