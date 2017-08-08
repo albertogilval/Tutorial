@@ -4,3 +4,4 @@ git add -A // para añadir todos los cambios realizados
 git remote add origin URL // si no tenemos asignado la direccion
 git commit -m "mensaje" // realizamos el commit con el mensaje "mensaje"
 git push origin master // subir los cambios al repositorio
+git checkout -b branchName //crea y usa la rama branchName
