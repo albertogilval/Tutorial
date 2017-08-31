@@ -1,2 +1,2 @@
 # Tutorial
-comandos crear un repositorio y subir archivos a el
+comandos para crear un repositorio y subir archivos a el, junto con modificaciones y comandos basicos
